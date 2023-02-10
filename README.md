@@ -1,2 +1,2 @@
 # MyRepo
-meri repository hai>>>>>>
+meri repository hai for practice
